@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-02-10T23:27:34+00:00\n"
+"PO-Revision-Date: 2026-02-10T23:27:34+00:00\n"
+"Language: \n"
+
+#. Plugin Name of the plugin
+#: aioseo-image-seo.php
+msgid "AIOSEO - Image SEO"
+msgstr "AIOSEO – SEO obrazków"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: aioseo-image-seo.php
+msgid "https://aioseo.com"
+msgstr "https://aioseo.com"
+
+#. Description of the plugin
+#: aioseo-image-seo.php
+msgid "Adds Image SEO support to All in One SEO."
+msgstr "Poszerza możliwości wtyczki All in One SEO o obsługę SEO obrazków."
+
+#. Author of the plugin
+#: aioseo-image-seo.php
+msgid "All in One SEO Team"
+msgstr "Zespół All in One SEO"
+
+#: app/Image/Image.php:452
+msgid "Autogenerate image attributes"
+msgstr "Wygeneruj atrybuty obrazków automatycznie"
+
+#: app/ImageSeo.php:135
+msgid "Plugin is missing required dependencies. Please contact support for more information."
+msgstr "Wtyczce brakuje wymaganych zależności. Aby uzyskać więcej informacji, skontaktuj się z zespołem pomocy technicznej."
+
+#: app/Utils/Tags.php:216
+msgid "Image Title"
+msgstr "Tytuł obrazka"
+
+#: app/Utils/Tags.php:217
+msgid "Your image title."
+msgstr "Tytuł obrazka."
+
+#: app/Utils/Tags.php:221
+msgid "Image SEO Title"
+msgstr "Tytuł SEO obrazka"
+
+#: app/Utils/Tags.php:222
+msgid "Your image SEO title. This is the title you manually enter in the SEO settings."
+msgstr "Tytuł SEO obrazka. Jest to tytuł wpisywany ręcznie w ustawieniach SEO."
+
+#: app/Utils/Tags.php:226
+msgid "Image SEO Description"
+msgstr "Opis SEO obrazka"
+
+#: app/Utils/Tags.php:227
+msgid "Your image SEO description. This is the meta description you enter in the SEO settings."
+msgstr "Opis SEO obrazka. Jest to meta opis wpisywany w ustawieniach SEO."
+
+#: app/Utils/Tags.php:231
+msgid "Post SEO Title"
+msgstr "Tytuł SEO wpisu"
+
+#: app/Utils/Tags.php:232
+msgid "The SEO title set for the page/post."
+msgstr "Tytuł SEO ustawiony dla strony/wpisu."
+
+#: app/Utils/Tags.php:236
+msgid "Post SEO Description"
+msgstr "Opis SEO wpisu"
+
+#: app/Utils/Tags.php:237
+msgid "The SEO description set for the page/post."
+msgstr "Opis SEO ustawiony dla strony/wpisu."
+
+#: app/Utils/Tags.php:241
+msgid "Post Title"
+msgstr "Tytuł wpisu"
+
+#: app/Utils/Tags.php:242
+msgid "The title of the page/post where the image is embedded."
+msgstr ""
+
+#: app/Utils/Tags.php:247
+msgid "Post Content"
+msgstr ""
+
+#: app/Utils/Tags.php:248
+msgid "The content of the page/post where the image is embedded."
+msgstr ""
+
+#: app/Utils/Tags.php:253
+msgid "Post Excerpt"
+msgstr "Zajawka wpisu"
+
+#: app/Utils/Tags.php:254
+msgid "The excerpt of the page/post where the image is embedded. Automatically generates an excerpt from the post content if one does not exist."
+msgstr ""
+
+#: app/Utils/Tags.php:259
+msgid "Post Excerpt Only"
+msgstr ""
+
+#: app/Utils/Tags.php:260
+msgid "The excerpt of the page/post where the image is embedded. Only uses the excerpt if it exists. Does not auto-generate."
+msgstr ""
+
+#: app/Utils/Tags.php:265
+msgid "Post Publication Day"
+msgstr "Dzień publikacji wpisu"
+
+#: app/Utils/Tags.php:266
+msgid "The day of the month when the post/page, where the image is embedded, was published, formatted based on your locale."
+msgstr "Dzień miesiąca publikacji wpisu/strony, na której jest osadzony obrazek, podany w formacie zgodnym z wybranymi ustawieniami regionalnymi."
+
+#: app/Utils/Tags.php:271
+msgid "Post Publication Month"
+msgstr "Miesiąc publikacji wpisu"
+
+#: app/Utils/Tags.php:272
+msgid "The month when the post/page, where the image is embedded, was published, formatted based on your locale."
+msgstr "Miesiąc publikacji wpisu/strony, na której jest osadzony obrazek, podany w formacie zgodnym z wybranymi ustawieniami regionalnymi."
+
+#: app/Utils/Tags.php:277
+msgid "Post Publication Year"
+msgstr "Rok publikacji wpisu"
+
+#: app/Utils/Tags.php:278
+msgid "The year when the post/page, where the image is embedded, was published, formatted based on your locale."
+msgstr "Rok publikacji wpisu/strony, na której jest osadzony obrazek, podany w formacie zgodnym z wybranymi ustawieniami regionalnymi."

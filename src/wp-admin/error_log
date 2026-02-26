@@ -1,0 +1,26 @@
+[22-Feb-2026 12:19:01 UTC] PHP Warning:  Undefined array key "Main_Boxes_meta_box_nonce" in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/metabox.php on line 146
+[22-Feb-2026 12:19:01 UTC] PHP Warning:  Undefined array key "fenster_meta_box_nonce" in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/fenster.php on line 69
+[22-Feb-2026 12:19:01 UTC] PHP Warning:  Undefined array key "turen_meta_box_nonce" in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/turen.php on line 68
+[22-Feb-2026 12:26:19 UTC] PHP Warning:  Undefined array key "Main_Boxes_meta_box_nonce" in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/metabox.php on line 146
+[22-Feb-2026 12:26:19 UTC] PHP Warning:  Undefined array key "fenster_meta_box_nonce" in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/fenster.php on line 69
+[22-Feb-2026 12:26:19 UTC] PHP Warning:  Undefined array key "turen_meta_box_nonce" in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/turen.php on line 68
+[22-Feb-2026 12:35:11 UTC] PHP Warning:  Undefined array key "Main_Boxes_meta_box_nonce" in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/metabox.php on line 146
+[22-Feb-2026 12:35:11 UTC] PHP Warning:  Undefined array key "fenster_meta_box_nonce" in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/fenster.php on line 69
+[22-Feb-2026 12:35:11 UTC] PHP Warning:  Undefined array key "turen_meta_box_nonce" in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/turen.php on line 68
+[22-Feb-2026 12:35:11 UTC] PHP Warning:  Undefined variable $qsid in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 958
+[22-Feb-2026 12:35:11 UTC] PHP Warning:  Undefined variable $qsid in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 960
+[22-Feb-2026 12:35:11 UTC] PHP Warning:  Undefined variable $qsid in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 967
+[22-Feb-2026 12:35:11 UTC] PHP Warning:  Undefined variable $qsid in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 968
+[22-Feb-2026 12:35:11 UTC] PHP Warning:  Undefined variable $qsid in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 971
+[22-Feb-2026 12:42:11 UTC] PHP Warning:  Undefined array key "Main_Boxes_meta_box_nonce" in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/metabox.php on line 146
+[22-Feb-2026 12:42:11 UTC] PHP Warning:  Undefined array key "fenster_meta_box_nonce" in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/fenster.php on line 69
+[22-Feb-2026 12:42:11 UTC] PHP Warning:  Undefined array key "turen_meta_box_nonce" in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/turen.php on line 68
+[22-Feb-2026 12:46:17 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/main-functions.php on line 148
+[22-Feb-2026 12:46:17 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/main-functions.php on line 148
+[22-Feb-2026 12:46:17 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/main-functions.php on line 148
+[22-Feb-2026 12:46:17 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/main-functions.php on line 148
+[22-Feb-2026 12:46:17 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/main-functions.php on line 148
+[22-Feb-2026 12:46:17 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/main-functions.php on line 148
+[22-Feb-2026 12:46:17 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/main-functions.php on line 148
+[22-Feb-2026 12:46:17 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/main-functions.php on line 148
+[26-Feb-2026 03:44:34 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-content/themes/responsywny/inc/main-functions.php on line 148

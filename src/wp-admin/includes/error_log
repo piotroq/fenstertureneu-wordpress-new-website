@@ -1,0 +1,8 @@
+[24-Feb-2026 17:11:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-admin/includes/admin.php on line 16
+[24-Feb-2026 17:20:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/fensterturen/public_html/xn--fenster-tren24-osb.eu/wp-admin/includes/admin.php on line 16
