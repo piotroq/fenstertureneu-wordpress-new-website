@@ -22,11 +22,14 @@
   },
   "homepage": "https://github.com/piotroq/fenstertureneu-wordpress-new-website#readme",
   "dependencies": {
+    "@guardian/core-web-vitals": "^18.0.0",
+    "a11y": "^0.5.1",
     "animejs": "^4.3.6",
     "bootstrap": "^5.3.8",
     "bs-icon": "^0.0.8",
     "express": "^5.2.1",
-    "gsap": "^3.14.2"
+    "gsap": "^3.14.2",
+    "lighthouse": "^12.8.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
