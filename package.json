@@ -1,1 +1,34 @@
-
+{
+  "name": "fenstertureneu-wordpress-new-website",
+  "version": "1.0.0",
+  "description": "Projekt modernizacji witryny **Fenster-Türen24** — fachbetriebu specjalizującego się w sprzedaży i montażu okien/drzwi (aluminium, PVC, drewna) w regionie NRW, Niemcy.",
+  "main": "webpack.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piotroq/fenstertureneu-wordpress-new-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/piotroq/fenstertureneu-wordpress-new-website/issues"
+  },
+  "homepage": "https://github.com/piotroq/fenstertureneu-wordpress-new-website#readme",
+  "dependencies": {
+    "animejs": "^4.3.6",
+    "bootstrap": "^5.3.8",
+    "bs-icon": "^0.0.8",
+    "express": "^5.2.1",
+    "gsap": "^3.14.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
