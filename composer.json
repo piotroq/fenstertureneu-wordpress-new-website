@@ -1,1 +1,25 @@
-
+{
+    "name": "piotroq/fenstertureneu-wordpress-new-website",
+    "description": "Modernizacja obecnej strony internetowej na WordPressie. Modyfikacja autorskiego motywu i modyfikacje przez motyw potomny.",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^3.10",
+        "phpunit/phpunit": "^13.0",
+        "wp-coding-standards/wpcs": "^3.3",
+        "wizardstool/seo-audit": "^1.0",
+        "wp-cli/wp-cli": "^2.12"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Piotr Bartosik",
+            "email": "kontaktpbmg@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}
