@@ -1,1 +1,5 @@
-
+// .stylelintrc.json
+{
+  "extends": "stylelint-config-standard",
+  "rules": {}
+}
